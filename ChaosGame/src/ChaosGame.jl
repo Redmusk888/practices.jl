@@ -1,6 +1,6 @@
 module ChaosGame
 
-    src = [
+    src = [ "redmusk",
     ]
 
     for s = src
@@ -8,4 +8,3 @@ module ChaosGame
     end
 
 end # module
-
